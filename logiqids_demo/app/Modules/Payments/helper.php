@@ -1,0 +1,5 @@
+<?php
+
+/**
+ *	Payments Helper  
+ */
